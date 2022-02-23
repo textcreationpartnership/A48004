@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman in the countrey to some of his friends at London shewing from the principles of the Jesuits that their protestations at their death is no argument of their innocency.</title>
+            <author>N. N., Gentleman in the countrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48004</idno>
+            <idno type="STC">Wing L1395</idno>
+            <idno type="STC">ESTC R9615</idno>
+            <idno type="EEBO-CITATION">15620727</idno>
+            <idno type="OCLC">ocm 15620727</idno>
+            <idno type="VID">104223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1151:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman in the countrey to some of his friends at London shewing from the principles of the Jesuits that their protestations at their death is no argument of their innocency.</title>
+                  <author>N. N., Gentleman in the countrey.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: N.N.</note>
+                  <note>"From my closet, the 6th of October, 1679."</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England --  Controversial literature.</term>
+               <term>Anti-Catholicism.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104223:1"/>
+            <pb facs="tcp:104223:1" rendition="simple:additions"/>
+            <p>A LETTER From a GENTLEMAN in the COUNTREY To ſome of his Familiar Friends AT LONDON, Shewing from the PRINCIPLES of the JESUITS That their <hi>Proteſtations at their Death</hi> Is no Argument of their INNOCENCY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104223:2"/>
+            <pb n="1" facs="tcp:104223:2"/>
+            <head>A LETTER From a Gentleman in the Countrey to ſome of his Familiar Friends at <hi>London, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My worthy Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Mong the manifold Occurrences which this time doth fruitfully miniſter for exerciſing of mens thoughts, and which gave me with you, while at <hi>London,</hi> plentiful oc<g ref="char:EOLhyphen"/>caſion of Diſcourſing together; That concerning the Plot may juſtly challenge a chief place. The pleaſant enter<g ref="char:EOLhyphen"/>tainment your friendly and kind Converſe did afford me, while I was among you, doth eaſily engage me to adventure to tranſmit unto you my more ſerious and retired thoughts upon that Subject, being more able, both compoſedly to perpend, and ſedately to digeſt them, when I am removed from the hurry and confuſed and contradictory noiſes of that place; which labour of mine, however Impolite, yet, as being plain and from your Friend, I hope will not prove troubleſom, but rather ac<g ref="char:EOLhyphen"/>ceptable unto You.</p>
+            <p>You need not my Information to know, that there hath ſcarce any thing faln out in this Age, of Matter of Fact, concerning which the Judgments of Men do more vaſtly differ, than about this Plot; for many do look upon it as a thing ſo plain and evident, that it is to do manifeſt violence to our underſtandings and ſenſe, to make the leaſt queſtion of it; beſides, That they judge it to be a moſt abuſive accuſing of the Juſtice of our <hi>Engliſh</hi> Nation, to make any doubt thereof; ſince, not only the Common Juries have found the Evidences ſufficient, but the Great Council of the Nation, always commended for their Solidity and Sobriety, have, as with one Voice, declared their full Convincement thereof.</p>
+            <p>Others there are, who ſcruple not to affirm that there never was any ſuch thing as a Plot, and that there is as yet no ſufficient Evidence produced, to convince any impartial, unprejudiced man thereof, in reſpect there is little or nothing for Proof, ſave the meer Affirmation of the Witneſſes, who being Perſons under ſuch Circumſtances, until the very time they pretend to make this Diſcovery, as ought not by their bare Teſtimony to have ſuch weight in a matter of this Conſequence, eſpecially being flatly contradicted by other Witneſſes. To this is objected, as Evidences of Fact, <hi>Colemans</hi> Letters, that of <hi>Pedre,</hi> and the Death of Sir <hi>Edmond<g ref="char:EOLhyphen"/>bury Godfrey.</hi> To which they make Anſwer, That as for <hi>Colemans</hi> Letters, they have nothing relating to the Kings Murther, which was the great Hinge upon which the ſucceſs of the Plot depended. That of <hi>Pedre</hi> is only ſuſpicious by reaſon of other concurring Circumſtances, for of it ſelf it could not have proved a ſufficient Evidence. And as to <hi>Godfrey</hi>'s
+<pb n="4" facs="tcp:104223:3"/>
+Death, it is Anſwered, That although that Matter of Fact be undeniable, that he was Murthered, yet it is not ſo manifeſt by whom; ſince the chief Witneſs did once ſolemnly deny, what he before and ſince has affirmed, and there have been no improbable inſinuations publiſhed, attributing it to the Contrivance of the Earl of <hi>Danby.</hi> Theſe things I thought meet only to mention, and not to inſiſt upon, leaving to every one to judge of the weight of the reſpective Reaſons, as they ſhall ſee moſt cauſe: and becauſe I do not find that in any of theſe, ſuch as ſeek to diſprove the Plot, place the greateſt weight, but chiefly in the Speeches and Proteſtations of the Five Jeſuits at their Death, therefore that is the matter I purpoſe chiefly to con<g ref="char:EOLhyphen"/>ſider: which as I have ſeriouſly weighed in my ſelf, ſo I will commit the ſame to writing with that candor, as I may avoid the leaſt occaſion of de<g ref="char:EOLhyphen"/>ceiving either my ſelf or others. I love not to force my ſelf unto the belief of a lie out of prejudice to any, nor yet refrain to believe a Truth, how<g ref="char:EOLhyphen"/>ever it may prove to the diſadvantage of thoſe I may love: as I would not have blind charity to my greateſt Friends, ſo I would not deny true charity to my greateſt Enemies, knowing the one to be no leſs hurtful than the other.</p>
+            <p>Abſtracting then from the probability or not probability of the Plot, up<g ref="char:EOLhyphen"/>on the nature of the Evidence, or other concurring Circumſtances, or how far it may be made manifeſt to be a very natural conſequence of Popiſh Principles, of which much and well hath been ſaid by others; The great Queſtion here to be enquired into, is, Whether it be probable, that if ſuch a thing had been true, and theſe Perſons guilty of it, they would or could have denyed it, in ſuch poſitive, expreſs and ſolemn terms, as they did at the very inſtant of their Death? or what temptation could be ſtrong enough to per<g ref="char:EOLhyphen"/>ſwade men to do that which themſeves declared they did abhor, (to wit, <hi>all Equivocation or formal Prolocution whatſoever) in ipſo mortis articulo?</hi> Since whatever may be the abſurdities of their Religion otherwiſe, it is known they believe a God, a Heaven, and a Hell, and the Immortality of the Soul, and rewards and puniſhments for mens actions, eſpecially the men being confeſſed to have been of ſober and ſerious Converſations, accord<g ref="char:EOLhyphen"/>ing to their own Principles, and in Morals ſuppoſed far to have exceeded ſome men of the Reformed Religion.</p>
+            <p>I hope now I have as fully and advantageouſly expreſſed the matter, as any <hi>Roman Catholick</hi> could deſire, in ſo few words; and I muſt alſo ingenu<g ref="char:EOLhyphen"/>ouſly acknowledge, that I cannot agree to their ſentiment, who endeavour to get over this difficulty, by apprehending there was ſome ſecret falacy in the Priſoners Expreſſions at their Execution: for I cannot judge the men would place their Eternal happineſs upon ſo mean a quibble; nor do I incline to the judgment of ſuch as are apt to believe, that either with reſpect to Abſolution before received, they did affirm themſelves to be as innocent as the <hi>Child un<g ref="char:EOLhyphen"/>born,</hi> or that they truſted to the Abſolution they might have or did receive from one another, after they ended their Speeches, as reckoning thereby, all guilt they might by ſuch denying have incurred, would be cleanſed and re<g ref="char:EOLhyphen"/>moved from them; for that ſeemeth to me improbable for the former Reaſon, in reſpect it is a received Doctrine of the Church of <hi>Rome,</hi> That no Abſolu<g ref="char:EOLhyphen"/>tion can prove effectual, but where the Party confeſſing doth truly repent of and deteſt the evil committed, reſolving to amend, which could not be in this Caſe.</p>
+            <p>And yet nevertheleſs, I think it no hard matter to conceive, that theſe men might in ſuch ſolemn manner affirm themſelves to be innocent, though
+<pb n="3" facs="tcp:104223:3"/>
+really guilty, and that not only to preſerve and advance the Intereſt of their Cauſe; but as ſeriouſly and deliberately believing that to do ſo; was the way to pleaſe God, and to advantage their own Souls: and this ſeemeth to me not at all ſtrange, but eaſily imaginable, and that without the leaſt breach of Charity or injury to thoſe dying men, for making which appear, let it be conſidered.</p>
+            <p>That a true and ſolid Judgment of mens actions, with reſpect to their future and Eternal Condition, is not to be made according to our Principles, who make the Judgment, but according to theirs whoſe actions are to be Judged of. That may ſeem very hurtful and pernicious to the Soul in the Judgment of one man, which is believed to be moſt beneficial and advan<g ref="char:EOLhyphen"/>tageous by another; therefore they are like to miſtake this caſe, who in charity judge hard to believe that to be true of the Papiſts, becauſe our Prin<g ref="char:EOLhyphen"/>ciples would reckon it abominable. If their plain acknowledgment did not put it beyond doubts, perhaps it might be reckoned as great a breach of Charity, to believe that theſe men could think, that the words of a Prieſt could con<g ref="char:EOLhyphen"/>vert Bread and Wine to the Fleſh and Bloud of Chriſt, and not only ſo, but unto the very Godhead; ſo that what was formerly real Bread, doth become in an inſtant, by the Breath of a Prieſt, (though the moſt debauched pro<g ref="char:EOLhyphen"/>fligate Villain living) that true and omnipotent God who created all things, and that bleſſed Lord Jeſus Chriſt, who is the great Mediator; and that therefore to that Wafer, which both Reaſon and Senſe aſſures us is ſtill the ſame, is due all the Worſhip, Adoration, Reverence and Subjection we owe to Almighty God. Now if we may ſuppoſe, and that without breach of Charity, as ſurely we can, that Wiſe men, that men who (in a ſence) may be called good men, ſuch as believe there is a God, ſuch as really labor for the Salvation of their Souls, ſeek to avoid many ſins, yea, all they Judge ſuch, for that end, and ſtudy earneſtly to mortify themſelves: I ſay, If ſuch can believe this, and for this end, as judging thereby to pleaſe God and go to Heaven, firmly perſwading themſelves, they ſhould offend God and endanger the Salvation of their Souls, if they did otherways; I would willingly know of ſober men, what thing can be ſo ſtrange, but the Wiſeſt men may be ſuppoſed to do it for this end, having once drunk in a Principle, that in ſo doing God will be well pleaſed with them. If then it can be de<g ref="char:EOLhyphen"/>monſtrated, that theſe Jeſuits, upon Principles received, and from their very entring into that Profeſſion, drunk in by them, might really, and even as Wiſe men ſo circumſtantiated, believe, that ſuch their Proteſtations at their Death, though contrary to the Truth of matter of Fact, was pleaſing to God, and the way to advantage their Souls, then it will be no ſtrange thing to conceive, nor no harſh thing to judge this might be done by them.</p>
+            <p>To make this then appear, I ſhall propoſe ſome few things out of their great Father <hi>Ignatius Loyola</hi> his Inſtructions and Rules to them: in his Epiſtle to his Brethren at <hi>Portugal,</hi> He recomends to them to excel <hi>not in Faſtings and Watchings, as the other Monks, but in the renowned ſimplicity of a blind obedience,</hi> which obliged them to <hi>ſubſcribe without condition to the Orders of their Superior, albeit he ſhould have but little Counſel or Pru<g ref="char:EOLhyphen"/>dence to defend theſe his Orders: Moreover, to offer themſelves by this obe<g ref="char:EOLhyphen"/>dience altogether in Sacrifice, renounce willingly to all their own right, for to enſlave themſelves and give themſelves up to the Conduct of the ſame Superior, as they would do to that of Divine Providence,</hi> from whence he Concludes <hi>that it cannot be denied, but ſuch an Obedience comprehends not only the exe<g ref="char:EOLhyphen"/>cution
+<pb n="4" facs="tcp:104223:4"/>
+to do that which is enjoyned, and the will to do it cheerfully, but the judgment to make appear right and true (ſo far as the will can by its force bow the underſtanding) Injunctions and Sentiments of the Superior,</hi> adding moreover, <hi>That this renowned ſimplicity of blind Obedience is loſt, if we move this Queſtion to our ſelves,</hi> (viz.) <hi>Whether they command right or not; and there<g ref="char:EOLhyphen"/>fore we muſt confirm our ſelves in this reſolution, that whatſoever the Superior Commands, is the Ordinance of God himſelf; And as they ought to apply themſelves with all their courage and affection to believe what the Catholick Faith propoſes, ſo alſo they ought to be carried by a certain impetuous blindneſs of the will, to do whatſoever the Superior ſays, being deſirous to obey without any diſquiſition or ſearch whatſoever, believing it was thus that</hi> Abraham <hi>carried himſelf, when he received the Commandment to offer up his Son. In ſhort, That they force and ſubject their Will and Judgment.</hi>
+            </p>
+            <p>And in the 6th. part of his Conſtitutions there are the ſame precepts: he wills, <hi>That they obey when they have but a ſign of the will of their Superior without any expreſs Commandment; that they ought to perſwade themſelves, that thoſe who live under obedience ought to ſuffer themſelves to be carried and governed in the Divine Providence by their Superiors, as if they were a</hi> Ca<g ref="char:EOLhyphen"/>daver <hi>which is tranſported any ways, or in any manner as men pleaſe, and as the Staff of an Old Man, which ſerves him to hold in his hand every where, and in what thing or manner he pleaſes to uſe it, and that they be perſwaded, that whatſoever the Superior has Commanded is juſt, rejecting and overcoming (as by force) by a blind obedience all their own Opinion and Judgment, that may be to the contrary, that in ſervice they reſign up their own Will and Judgment, and have no Judgment of their own.</hi>
+            </p>
+            <p>Having thus ſhewn in the expreſs words of <hi>Ignatius,</hi> the Conſtitution of the Jeſuits, which by Oath they do oblige themſelves to fulfil; I will in cha<g ref="char:EOLhyphen"/>rity ſuppoſe, that theſe Jeſuits who Suffered at Tyburn did honeſtly and ſincerely enter into this Society, as being greatly perſwaded in their minds, that thereby they would glorify God and advantage their own Souls; and that accordingly, they looked upon ſuch Rules, as the moſt effectual means for accompliſhing that end, their judgment and underſtanding being no leſs fully poſſeſt with the Faith thereof, than with the Faith of Tranſubſtantiati<g ref="char:EOLhyphen"/>on, Infalabillity, or the Supremacy of the See and Biſhop of <hi>Rome,</hi> which all underſtanding men know to be firmly believed by all real <hi>Roman Catholicks,</hi> as that which is a Faith neceſſary to lead to Heaven; and that many both Wiſe and Serious men among them, have and do live and die in this Perſwaſion. The caſe being then thus, may it not rationally be judged that upon Diſcovery of the Plot, the Superiors of theſe Jeſuits, as well for preſerving the Intereſt and Honor of their Religion, as for deliver<g ref="char:EOLhyphen"/>ing themſelves from the imputation of ſo odious a Fact, did command theſe Jeſuits, or at leaſtwiſe give them ſome ſign by which they might underſtand, it was their mind they ſhould ſolemnly declare in as full and ample words as could be conceived, that they <hi>were as innocent as Children unborn,</hi> of all they were charged with: for the more full and expreſſive the words were, there lay the greater myſtery both of concealing the Plot, and jumbling mens minds concerning it; in which caſe is it any wonder, that theſe men did very readily and cheerfully herein comply with the command of their Superiors? yea, as on the one hand, it were madneſs to think the Jeſuits ſuch fools as not to uſe this knack to preſerve their Religion in ge<g ref="char:EOLhyphen"/>neral, and their Profeſſion in particular, from ſo great a ſcandal which
+<pb n="5" facs="tcp:104223:4"/>
+was of that conſequence, that the doing otherwiſe would have fruſtrated the whole endeavours and end of that Society; (thoſe that have read the <hi>Caſuiſts</hi> among the <hi>Romaniſts,</hi> will find them diſpenſe with greater Evils than a lye ſometimes to ſave a mans life, or a houſe from being burned) What may be then done to keep the Religion from Ruine? So on the other hand, it is moſt rational to judge, that theſe Jeſuits would rather eſteem themſelves favoured, than wronged by their Superiors, in impoſing upon them a neceſſity thus to aſſert their Innocency; for ſince (as is above ſhewn) their Principles did engage them to believe themſelves ſafe, as to God and Heavenward, by their Obedience, ſurely it could not but be far more acceptable for them to dye as Innocent Men and Martyrs, than as Traitors and Murderers. If it be thought ſtrange that men at their Death ſhould hold ſuch Principles, it may be alſo thought ſtrange men ſhould dye believing Tranſubſtantiation, Purgatory, <hi>&amp;c.</hi> Did not Papiſts dye rather than renounce the Popes Supremacy in <hi>Henry</hi> the 8ths. days? ſo this will not ſeem ſtrange to any who conſider the power and influence of once receiving or believing any Opinion in matters Religious, for its being placed upon that foot overcomes all reaſoning, untill the mind be overpowred by ſomething that can more fully perſwade it. Did not Chriſt put this thing out of doubt when he ſaid, <hi>In killing you they ſhall think they do God good Service?</hi> and we read that a certain <hi>Indian</hi> made a pile of Wood, and burned himſelf before <hi>Alexander</hi> the Great, and another afterwards did the like at <hi>Athens;</hi> hence that Proverb of the Ancients <hi>Tantum Religio potuit.</hi> If it be then no won<g ref="char:EOLhyphen"/>der to ſee a Papiſt dye believing Tranſubſtantiation, it is no wonder to ſee a Jeſuit dye obeying and anſwering the Rules of his Order; yea, leſs, ſince men are uſually more Zealous for the performance of thoſe extraordinary Tyes, than for the common Rules of their Religion. As for example, no underſtanding Papiſt that will be ingenuous, can deny, but it is eſteemed by them a greater ſin for a Prieſt to marry than to commit Adultery with another mans Wife, although the one be to ſin againſt the poſitive Law of God, and the other only to tranſgreſs a human Conſtitution. So that if we will ſuppoſe theſe Jeſuits to have been true, honeſt and ſincere in their own Profeſſion, we may with great charity ſuppoſe, yea, we cannot with<g ref="char:EOLhyphen"/>out breach of charity think otherwiſe, than that, albeit they were guilty of the things charged upon them, yet they both might and ought to have denied them, and that in ſuch manner as they did; and that they could not have done otherwiſe, unleſs they had been falſe and diſhoneſt to their own Principles, and have utterly forſaken them, which we know, and on all hands is confeſſed, they did not. This I ſhall evince by one or two Syllogiſms deduced from the Maxims abovementioned.</p>
+            <p>Whoever ought in Obedience to his Superior, <hi>become blind, renounce all his own right Judgment and Will, ſubject himſelf unto the Conduct of the ſame Superior, as to the Providence of God, do all that he Commands, Will all that he Wills, Judge as he Judges, and perſwade himſelf (with the ſame diſpoſition that the Articles of Faith are believed, or that</hi> Abraham <hi>believed God) that all his Commandments are the Commandments of God himſelf: ought to obey without exception, and cannot without renouncing his Religion do otherwiſe.</hi>
+            </p>
+            <p>And again, whoever ſwears to obey his Superior, <hi>without making any diſquiſition or ſearch of his Commandments, whatever they are, and without calling in queſtion whether he commands right or not, ought to obey without re<g ref="char:EOLhyphen"/>ſerve or exception, and cannot do otherwiſe.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:104223:5"/>And again, whoever ought to ſuffer himſelf, (<hi>as if he were a</hi> Cadaver <hi>or a Staff) to be tranſported where and to what uſe the Superior pleaſeth, and hold certainly that whatever he commands is jaſt,</hi> ought to obey ſimply, and without any reſpect of the thing commanded.</p>
+            <p>This is ſo plain, that nothing can be ſaid more evident, ſo that the only queſtion is, Whether the Jeſuits Superiors would or did ſo command? the probability whereof I leave to your Judgment: and I would deſire herein to be underſtood, only to ſhew how theſe dying Jeſuits might have ſo done according to their own Principles, to take away from ſuch as underſtand not, all occaſion of wondering at that, or queſtioning the truth of the Plot upon that head, not that I determine theſe did ſo, <hi>defacto.</hi> That I leave every one to judge as they ſhall ſee moſt cauſe, ſuppoſing other evidence ſufficient; the manner of their dying need not ſtagger any. Much more might be enlarged upon theſe things I have hinted, but I reſolve not to exceed the limits of a Poſt Letter, hoping hitherto I have not been tedious unto you, and that you will let me know your kindly acceptance of this, by tranſmitting to me ſome of thoſe daily Eſſays, whereof this Seaſon ſeems to be very fruitful, in doing whereof you will oblige your real Friend to ſerve you,</p>
+            <closer>
+               <signed>N. N.</signed>
+               <dateline>From my Cloſet <date>the
+6<hi>th</hi> of <hi>October,</hi> 1679.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
